@@ -1,0 +1,40 @@
+.cabecalho{
+    background: #f100ff;
+    background: linear-gradient(168deg,#f100ff 0%, #300286 80%);
+    background: -webkit-linear-gradient(168deg,#f100ff 0%, #300286 80%);
+    background: -moz-linear-gradient(168deg,#f100ff 0%, #300286 80%);
+    width: auto;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: none;
+    padding: none;
+}
+#logo{
+    width: 10%;
+    height: 90px;
+    margin: auto;
+    padding-left: none;
+    padding-top: none;
+    padding-right: 1200px;
+}
+
+.logo2, a{
+    text-align: right;
+    color: rgb(241, 238, 243);
+    font-size: medium;
+}
+a:hover{
+    color: rgb(28, 23, 2);
+}
+
+
+.main{
+    background: rgba(241,0,255,0.51);
+    background: linear-gradient(168deg,rgba(241,0,255,0.51) 0%, rgba(90,32,203,0.72) 80%);
+    background: -webkit-linear-gradient(168deg,rgba(241,0,255,0.51) 0%, rgba(90,32,203,0.72) 80%);
+    background: -moz-linear-gradient(168deg,rgba(241,0,255,0.51) 0%, rgba(90,32,203,0.72) 80%);
+    width: 100%;
+    height: auto;
+}
